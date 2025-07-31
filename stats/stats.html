@@ -105,25 +105,56 @@
         async function loadTournamentData() {
             const promises = years.map(year => {
                 const filename = year === 2013 ? 'Isabuhay-2013.json' : `Isabuhay-${year}.json`;
-                // Use an absolute path so it works on GitHub Pages / Vercel as well
-                const url = `/isabuhay/${filename}`;
-                return fetch(url)
-                    .then(response => {
-                        if (!response.ok) {
-                            throw new Error(`Failed to load ${url}: ${response.status}`);
+                
+                // For your structure: /stats/index.html needs to access /isabuhay/*.json
+                // Try both relative and absolute paths
+                const possibleUrls = [
+                    `../isabuhay/${filename}`,     // Relative path (go up one level, then into isabuhay)
+                    `/isabuhay/${filename}`,       // Absolute path (your current approach)
+                    `./isabuhay/${filename}`,      // Just in case
+                ];
+                
+                const tryFetch = async (urls) => {
+                    for (const url of urls) {
+                        try {
+                            console.log(`Trying to fetch: ${url}`);
+                            const response = await fetch(url);
+                            if (response.ok) {
+                                console.log(`Successfully loaded: ${url}`);
+                                return await response.json();
+                            } else {
+                                console.warn(`Failed to load ${url}: ${response.status} ${response.statusText}`);
+                            }
+                        } catch (error) {
+                            console.warn(`Error fetching ${url}:`, error.message);
                         }
-                        return response.json();
-                    })
+                    }
+                    throw new Error(`Could not load ${filename} from any URL`);
+                };
+                
+                return tryFetch(possibleUrls)
                     .then(data => {
                         processTournamentData(data, year);
+                        return { year, success: true };
                     })
-                    .catch(error => console.error(`Error loading data for ${year}:`, error));
+                    .catch(error => {
+                        console.error(`Error loading data for ${year}:`, error);
+                        return { year, success: false, error };
+                    });
             });
 
-            await Promise.allSettled(promises);
+            const results = await Promise.allSettled(promises);
+            
+            // Log results for debugging
+            results.forEach((result, index) => {
+                if (result.status === 'fulfilled') {
+                    console.log(`Year ${years[index]}: ${result.value.success ? 'Success' : 'Failed'}`);
+                }
+            });
+            
             updateUI();
         }
-
+        
         // Process data from a single tournament
         function processTournamentData(tournamentData, year) {
             const playerStats = tournamentData.playerStats;
