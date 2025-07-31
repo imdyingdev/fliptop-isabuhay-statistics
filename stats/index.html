@@ -105,8 +105,15 @@
         async function loadTournamentData() {
             const promises = years.map(year => {
                 const filename = year === 2013 ? 'Isabuhay-2013.json' : `Isabuhay-${year}.json`;
-                return fetch(`../isabuhay/${filename}`)
-                    .then(response => response.json())
+                // Use an absolute path so it works on GitHub Pages / Vercel as well
+                const url = `/isabuhay/${filename}`;
+                return fetch(url)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Failed to load ${url}: ${response.status}`);
+                        }
+                        return response.json();
+                    })
                     .then(data => {
                         processTournamentData(data, year);
                     })
