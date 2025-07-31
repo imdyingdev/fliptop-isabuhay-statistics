@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "LOONIE": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "BADANG": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "G-CLOWN": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "FROOZ": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "TIPSY D": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "FLICT G": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JKING": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "PISTOLERO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MZHAYT": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SMUGGLAZ": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "PLAZMA": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "KJAP": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "RAPIDO": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ROMANO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ASSER": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "AKLAS": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753944046191",
+    "title": "My Awesome Tournament",
+    "timestamp": "2025-07-31T06:40:46.191Z",
+    "players": {
+      "q1-p1": "LOONIE",
+      "q1-p2": "BADANG",
+      "q2-p1": "FROOZ",
+      "q2-p2": "G-CLOWN",
+      "q3-p1": "PISTOLERO",
+      "q3-p2": "JKING",
+      "q4-p1": "FLICT G",
+      "q4-p2": "TIPSY D",
+      "q5-p1": "SMUGGLAZ",
+      "q5-p2": "MZHAYT",
+      "q6-p1": "KJAP",
+      "q6-p2": "PLAZMA",
+      "q7-p1": "ROMANO",
+      "q7-p2": "RAPIDO",
+      "q8-p1": "ASSER",
+      "q8-p2": "AKLAS"
+    },
+    "matches": {
+      "q1": {
+        "winner": "LOONIE",
+        "loser": "BADANG",
+        "timestamp": "2025-07-31T06:44:10.840Z"
+      },
+      "q2": {
+        "winner": "G-CLOWN",
+        "loser": "FROOZ",
+        "timestamp": "2025-07-31T06:44:12.480Z"
+      },
+      "q4": {
+        "winner": "TIPSY D",
+        "loser": "FLICT G",
+        "timestamp": "2025-07-31T06:44:16.544Z"
+      },
+      "q3": {
+        "winner": "JKING",
+        "loser": "PISTOLERO",
+        "timestamp": "2025-07-31T06:44:18.881Z"
+      },
+      "sq2": {
+        "winner": "TIPSY D",
+        "loser": "JKING",
+        "timestamp": "2025-07-31T06:44:22.953Z"
+      },
+      "sq1": {
+        "winner": "LOONIE",
+        "loser": "G-CLOWN",
+        "timestamp": "2025-07-31T06:44:24.608Z"
+      },
+      "s1": {
+        "winner": "LOONIE",
+        "loser": "TIPSY D",
+        "timestamp": "2025-07-31T06:44:27.713Z"
+      },
+      "q5": {
+        "winner": "MZHAYT",
+        "loser": "SMUGGLAZ",
+        "timestamp": "2025-07-31T06:44:39.185Z"
+      },
+      "q6": {
+        "winner": "PLAZMA",
+        "loser": "KJAP",
+        "timestamp": "2025-07-31T06:44:39.776Z"
+      },
+      "q7": {
+        "winner": "RAPIDO",
+        "loser": "ROMANO",
+        "timestamp": "2025-07-31T06:45:16.745Z"
+      },
+      "q8": {
+        "winner": "ASSER",
+        "loser": "AKLAS",
+        "timestamp": "2025-07-31T06:45:19.841Z"
+      },
+      "sq3": {
+        "winner": "PLAZMA",
+        "loser": "MZHAYT",
+        "timestamp": "2025-07-31T06:45:28.145Z"
+      },
+      "sq4": {
+        "winner": "ASSER",
+        "loser": "RAPIDO",
+        "timestamp": "2025-07-31T06:45:30.017Z"
+      },
+      "s2": {
+        "winner": "PLAZMA",
+        "loser": "ASSER",
+        "timestamp": "2025-07-31T06:45:32.401Z"
+      },
+      "gf1": {
+        "winner": "LOONIE",
+        "loser": "PLAZMA",
+        "timestamp": "2025-07-31T06:45:34.905Z"
+      }
+    },
+    "winners": {
+      "q1": "LOONIE",
+      "q2": "G-CLOWN",
+      "q4": "TIPSY D",
+      "q3": "JKING",
+      "sq2": "TIPSY D",
+      "sq1": "LOONIE",
+      "s1": "LOONIE",
+      "q5": "MZHAYT",
+      "q6": "PLAZMA",
+      "q7": "RAPIDO",
+      "q8": "ASSER",
+      "sq3": "PLAZMA",
+      "sq4": "ASSER",
+      "s2": "PLAZMA",
+      "gf1": "LOONIE"
+    },
+    "champion": "LOONIE",
+    "isLocked": true,
+    "completed": true
+  }
+}

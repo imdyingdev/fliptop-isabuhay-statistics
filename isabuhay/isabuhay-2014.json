@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "BATAS": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "DOPEE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "RUDIC": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "NIKKI": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "RAPIDO": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SPADE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "HIZUKA": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SILENT EFFECT": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "PROSECUTOR BILLY": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "NOTORIOUS": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MELCHRIST": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MAXFORD": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "AKLAS": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ELBIZ": {
+      "totalWins": 1,
+      "totalLosses": 2,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "KRIS DELANO": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "NICO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753943325840",
+    "title": "My Awesome Tournament",
+    "timestamp": "2025-07-31T06:28:45.840Z",
+    "players": {
+      "q1-p1": "BATAS",
+      "q1-p2": "DOPEE",
+      "q2-p1": "RUDIC",
+      "q2-p2": "NIKKI",
+      "q3-p1": "RAPIDO",
+      "q3-p2": "SPADE",
+      "q4-p1": "SILENT EFFECT",
+      "q4-p2": "HIZUKA",
+      "q5-p1": "NOTORIOUS",
+      "q5-p2": "PROSECUTOR BILLY",
+      "q6-p1": "NICO",
+      "q6-p2": "KRIS DELANO",
+      "q7-p1": "MELCHRIST",
+      "q7-p2": "MAXFORD",
+      "q8-p1": "ELBIZ",
+      "q8-p2": "AKLAS"
+    },
+    "matches": {
+      "q1": {
+        "winner": "BATAS",
+        "loser": "DOPEE",
+        "timestamp": "2025-07-31T06:30:20.442Z"
+      },
+      "q2": {
+        "winner": "RUDIC",
+        "loser": "NIKKI",
+        "timestamp": "2025-07-31T06:30:26.258Z"
+      },
+      "q3": {
+        "winner": "RAPIDO",
+        "loser": "SPADE",
+        "timestamp": "2025-07-31T06:30:28.082Z"
+      },
+      "q4": {
+        "winner": "HIZUKA",
+        "loser": "SILENT EFFECT",
+        "timestamp": "2025-07-31T06:30:29.946Z"
+      },
+      "q5": {
+        "winner": "PROSECUTOR BILLY",
+        "loser": "NOTORIOUS",
+        "timestamp": "2025-07-31T06:30:35.530Z"
+      },
+      "q7": {
+        "winner": "MELCHRIST",
+        "loser": "MAXFORD",
+        "timestamp": "2025-07-31T06:30:39.243Z"
+      },
+      "q8": {
+        "winner": "ELBIZ",
+        "loser": "AKLAS",
+        "timestamp": "2025-07-31T06:34:13.204Z"
+      },
+      "q6": {
+        "winner": "KRIS DELANO",
+        "loser": "NICO",
+        "timestamp": "2025-07-31T06:33:16.548Z"
+      },
+      "sq1": {
+        "winner": "BATAS",
+        "loser": "RUDIC",
+        "timestamp": "2025-07-31T06:33:20.539Z"
+      },
+      "sq2": {
+        "winner": "RAPIDO",
+        "loser": "HIZUKA",
+        "timestamp": "2025-07-31T06:33:45.532Z"
+      },
+      "sq3": {
+        "winner": "KRIS DELANO",
+        "loser": "PROSECUTOR BILLY",
+        "timestamp": "2025-07-31T06:34:08.380Z"
+      },
+      "sq4": {
+        "winner": "MELCHRIST",
+        "loser": "ELBIZ",
+        "timestamp": "2025-07-31T06:35:10.604Z"
+      },
+      "s1": {
+        "winner": "BATAS",
+        "loser": "RAPIDO",
+        "timestamp": "2025-07-31T06:35:17.564Z"
+      },
+      "s2": {
+        "winner": "MELCHRIST",
+        "loser": "KRIS DELANO",
+        "timestamp": "2025-07-31T06:35:52.381Z"
+      },
+      "gf1": {
+        "winner": "BATAS",
+        "loser": "MELCHRIST",
+        "timestamp": "2025-07-31T06:35:55.933Z"
+      }
+    },
+    "winners": {
+      "q1": "BATAS",
+      "q2": "RUDIC",
+      "q3": "RAPIDO",
+      "q4": "HIZUKA",
+      "q5": "PROSECUTOR BILLY",
+      "q7": "MELCHRIST",
+      "q8": "ELBIZ",
+      "q6": "KRIS DELANO",
+      "sq1": "BATAS",
+      "sq2": "RAPIDO",
+      "sq3": "KRIS DELANO",
+      "sq4": "MELCHRIST",
+      "s1": "BATAS",
+      "s2": "MELCHRIST",
+      "gf1": "BATAS"
+    },
+    "champion": "BATAS",
+    "isLocked": true,
+    "completed": true
+  }
+}

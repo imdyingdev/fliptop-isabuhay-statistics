@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "BATAS": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JKING": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "LUXURIA": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "FROOZ": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MZHAYT": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "YUNIKO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "GL": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "CHRIS ACE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ONLISON": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "GAMEBOY": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JONAS": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "PARENG ELBIZ": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "KREGGA": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MARSHALL BONIFACIO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "LHIPKRAM": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "LANZETA": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753945769083",
+    "title": "My Awesome Tournament",
+    "timestamp": "2025-07-31T07:09:29.083Z",
+    "players": {
+      "q1-p1": "BATAS",
+      "q1-p2": "JKING",
+      "q2-p1": "FROOZ",
+      "q2-p2": "LUXURIA",
+      "q3-p1": "MZHAYT",
+      "q3-p2": "YUNIKO",
+      "q4-p1": "GL",
+      "q4-p2": "CHRIS ACE",
+      "q5-p1": "GAMEBOY",
+      "q5-p2": "ONLISON",
+      "q6-p1": "JONAS",
+      "q6-p2": "PARENG ELBIZ",
+      "q7-p1": "MARSHALL BONIFACIO",
+      "q7-p2": "KREGGA",
+      "q8-p1": "LANZETA",
+      "q8-p2": "LHIPKRAM"
+    },
+    "matches": {
+      "q1": {
+        "winner": "BATAS",
+        "loser": "JKING",
+        "timestamp": "2025-07-31T07:10:41.044Z"
+      },
+      "q2": {
+        "winner": "LUXURIA",
+        "loser": "FROOZ",
+        "timestamp": "2025-07-31T07:10:41.692Z"
+      },
+      "q3": {
+        "winner": "MZHAYT",
+        "loser": "YUNIKO",
+        "timestamp": "2025-07-31T07:10:44.644Z"
+      },
+      "q4": {
+        "winner": "GL",
+        "loser": "CHRIS ACE",
+        "timestamp": "2025-07-31T07:10:46.163Z"
+      },
+      "q5": {
+        "winner": "ONLISON",
+        "loser": "GAMEBOY",
+        "timestamp": "2025-07-31T07:10:55.964Z"
+      },
+      "q6": {
+        "winner": "JONAS",
+        "loser": "PARENG ELBIZ",
+        "timestamp": "2025-07-31T07:10:57.660Z"
+      },
+      "q7": {
+        "winner": "KREGGA",
+        "loser": "MARSHALL BONIFACIO",
+        "timestamp": "2025-07-31T07:10:59.732Z"
+      },
+      "q8": {
+        "winner": "LHIPKRAM",
+        "loser": "LANZETA",
+        "timestamp": "2025-07-31T07:11:01.213Z"
+      },
+      "sq2": {
+        "winner": "MZHAYT",
+        "loser": "GL",
+        "timestamp": "2025-07-31T07:11:09.092Z"
+      },
+      "sq1": {
+        "winner": "LUXURIA",
+        "loser": "BATAS",
+        "timestamp": "2025-07-31T07:11:11.020Z"
+      },
+      "s1": {
+        "winner": "MZHAYT",
+        "loser": "LUXURIA",
+        "timestamp": "2025-07-31T07:11:15.812Z"
+      },
+      "sq3": {
+        "winner": "JONAS",
+        "loser": "ONLISON",
+        "timestamp": "2025-07-31T07:11:26.876Z"
+      },
+      "sq4": {
+        "winner": "LHIPKRAM",
+        "loser": "KREGGA",
+        "timestamp": "2025-07-31T07:11:31.700Z"
+      },
+      "s2": {
+        "winner": "LHIPKRAM",
+        "loser": "JONAS",
+        "timestamp": "2025-07-31T07:11:36.276Z"
+      },
+      "gf1": {
+        "winner": "MZHAYT",
+        "loser": "LHIPKRAM",
+        "timestamp": "2025-07-31T07:11:43.332Z"
+      }
+    },
+    "winners": {
+      "q1": "BATAS",
+      "q2": "LUXURIA",
+      "q3": "MZHAYT",
+      "q4": "GL",
+      "q5": "ONLISON",
+      "q6": "JONAS",
+      "q7": "KREGGA",
+      "q8": "LHIPKRAM",
+      "sq2": "MZHAYT",
+      "sq1": "LUXURIA",
+      "s1": "MZHAYT",
+      "sq3": "JONAS",
+      "sq4": "LHIPKRAM",
+      "s2": "LHIPKRAM",
+      "gf1": "MZHAYT"
+    },
+    "champion": "MZHAYT",
+    "isLocked": true,
+    "completed": true
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "APEKZ": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "BAGSIK": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MASTAFEAT": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "K-RAM": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "GORIONG TALAS": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ILLTIMATE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "VITRUM": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ONAKS": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "G-CLOWN": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "CNINE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JBLAQUE": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "LILSTROCKS": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ZEND LUKE": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JR ZERO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "HARLEM": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "RIGHTEOUS 1": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753945917842",
+    "title": "My Awesome Tournament",
+    "timestamp": "2025-07-31T07:11:57.842Z",
+    "players": {
+      "q1-p1": "APEKZ",
+      "q1-p2": "BAGSIK",
+      "q2-p1": "MASTAFEAT",
+      "q2-p2": "K-RAM",
+      "q3-p1": "GORIONG TALAS",
+      "q3-p2": "ILLTIMATE",
+      "q4-p1": "ONAKS",
+      "q4-p2": "VITRUM",
+      "q5-p1": "CNINE",
+      "q5-p2": "G-CLOWN",
+      "q6-p1": "LILSTROCKS",
+      "q6-p2": "JBLAQUE",
+      "q7-p1": "JR ZERO",
+      "q7-p2": "ZEND LUKE",
+      "q8-p1": "RIGHTEOUS 1",
+      "q8-p2": "HARLEM"
+    },
+    "matches": {
+      "q1": {
+        "winner": "APEKZ",
+        "loser": "BAGSIK",
+        "timestamp": "2025-07-31T07:13:42.805Z"
+      },
+      "q2": {
+        "winner": "MASTAFEAT",
+        "loser": "K-RAM",
+        "timestamp": "2025-07-31T07:13:43.973Z"
+      },
+      "q3": {
+        "winner": "GORIONG TALAS",
+        "loser": "ILLTIMATE",
+        "timestamp": "2025-07-31T07:13:51.237Z"
+      },
+      "q4": {
+        "winner": "VITRUM",
+        "loser": "ONAKS",
+        "timestamp": "2025-07-31T07:13:51.909Z"
+      },
+      "q5": {
+        "winner": "G-CLOWN",
+        "loser": "CNINE",
+        "timestamp": "2025-07-31T07:14:03.005Z"
+      },
+      "q6": {
+        "winner": "JBLAQUE",
+        "loser": "LILSTROCKS",
+        "timestamp": "2025-07-31T07:14:03.861Z"
+      },
+      "q7": {
+        "winner": "ZEND LUKE",
+        "loser": "JR ZERO",
+        "timestamp": "2025-07-31T07:14:11.461Z"
+      },
+      "q8": {
+        "winner": "HARLEM",
+        "loser": "RIGHTEOUS 1",
+        "timestamp": "2025-07-31T07:14:14.701Z"
+      },
+      "sq3": {
+        "winner": "JBLAQUE",
+        "loser": "G-CLOWN",
+        "timestamp": "2025-07-31T07:14:25.893Z"
+      },
+      "sq1": {
+        "winner": "APEKZ",
+        "loser": "MASTAFEAT",
+        "timestamp": "2025-07-31T07:14:33.869Z"
+      },
+      "sq2": {
+        "winner": "GORIONG TALAS",
+        "loser": "VITRUM",
+        "timestamp": "2025-07-31T07:14:40.725Z"
+      },
+      "s1": {
+        "winner": "GORIONG TALAS",
+        "loser": "APEKZ",
+        "timestamp": "2025-07-31T07:14:42.733Z"
+      },
+      "sq4": {
+        "winner": "ZEND LUKE",
+        "loser": "HARLEM",
+        "timestamp": "2025-07-31T07:15:14.317Z"
+      },
+      "s2": {
+        "winner": "JBLAQUE",
+        "loser": "ZEND LUKE",
+        "timestamp": "2025-07-31T07:15:17.686Z"
+      },
+      "gf1": {
+        "winner": "JBLAQUE",
+        "loser": "GORIONG TALAS",
+        "timestamp": "2025-07-31T07:15:22.189Z"
+      }
+    },
+    "winners": {
+      "q1": "APEKZ",
+      "q2": "MASTAFEAT",
+      "q3": "GORIONG TALAS",
+      "q4": "VITRUM",
+      "q5": "G-CLOWN",
+      "q6": "JBLAQUE",
+      "q7": "ZEND LUKE",
+      "q8": "HARLEM",
+      "sq3": "JBLAQUE",
+      "sq1": "APEKZ",
+      "sq2": "GORIONG TALAS",
+      "s1": "GORIONG TALAS",
+      "sq4": "ZEND LUKE",
+      "s2": "JBLAQUE",
+      "gf1": "JBLAQUE"
+    },
+    "champion": "JBLAQUE",
+    "isLocked": true,
+    "completed": true
+  }
+}

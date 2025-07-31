@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "SAK MAESTRO": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ASSER": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "HAZKY": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "C-QUENCE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "PLARIDHEL": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "BAGSIK": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "POISON 13": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "PRINCE RHYME": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ZAITO": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JKING": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JDEE": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "CASTILLO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ILLTIMATE": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "G-CLOWN": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "INVICTUS": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "SAYADD": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753946506098",
+    "title": "My Awesome Tournament",
+    "timestamp": "2025-07-31T07:21:46.098Z",
+    "players": {
+      "q1-p1": "SAK MAESTRO",
+      "q1-p2": "ASSER",
+      "q2-p1": "HAZKY",
+      "q2-p2": "C-QUENCE",
+      "q3-p1": "PLARIDHEL",
+      "q3-p2": "BAGSIK",
+      "q4-p1": "PRINCE RHYME",
+      "q4-p2": "POISON 13",
+      "q5-p1": "ZAITO",
+      "q5-p2": "JKING",
+      "q6-p1": "CASTILLO",
+      "q6-p2": "JDEE",
+      "q7-p1": "ILLTIMATE",
+      "q7-p2": "G-CLOWN",
+      "q8-p1": "SAYADD",
+      "q8-p2": "INVICTUS"
+    },
+    "matches": {
+      "q1": {
+        "winner": "SAK MAESTRO",
+        "loser": "ASSER",
+        "timestamp": "2025-07-31T07:23:58.777Z"
+      },
+      "q2": {
+        "winner": "HAZKY",
+        "loser": "C-QUENCE",
+        "timestamp": "2025-07-31T07:23:59.417Z"
+      },
+      "q3": {
+        "winner": "PLARIDHEL",
+        "loser": "BAGSIK",
+        "timestamp": "2025-07-31T07:24:01.897Z"
+      },
+      "q4": {
+        "winner": "POISON 13",
+        "loser": "PRINCE RHYME",
+        "timestamp": "2025-07-31T07:24:02.626Z"
+      },
+      "q5": {
+        "winner": "ZAITO",
+        "loser": "JKING",
+        "timestamp": "2025-07-31T07:24:08.209Z"
+      },
+      "q6": {
+        "winner": "JDEE",
+        "loser": "CASTILLO",
+        "timestamp": "2025-07-31T07:24:08.945Z"
+      },
+      "q7": {
+        "winner": "ILLTIMATE",
+        "loser": "G-CLOWN",
+        "timestamp": "2025-07-31T07:24:11.761Z"
+      },
+      "q8": {
+        "winner": "INVICTUS",
+        "loser": "SAYADD",
+        "timestamp": "2025-07-31T07:24:12.665Z"
+      },
+      "sq1": {
+        "winner": "HAZKY",
+        "loser": "SAK MAESTRO",
+        "timestamp": "2025-07-31T07:24:42.426Z"
+      },
+      "sq2": {
+        "winner": "PLARIDHEL",
+        "loser": "POISON 13",
+        "timestamp": "2025-07-31T07:24:43.233Z"
+      },
+      "s1": {
+        "winner": "HAZKY",
+        "loser": "PLARIDHEL",
+        "timestamp": "2025-07-31T07:24:45.954Z"
+      },
+      "sq3": {
+        "winner": "JDEE",
+        "loser": "ZAITO",
+        "timestamp": "2025-07-31T07:25:10.610Z"
+      },
+      "sq4": {
+        "winner": "INVICTUS",
+        "loser": "ILLTIMATE",
+        "timestamp": "2025-07-31T07:25:13.514Z"
+      },
+      "s2": {
+        "winner": "INVICTUS",
+        "loser": "JDEE",
+        "timestamp": "2025-07-31T07:25:16.146Z"
+      },
+      "gf1": {
+        "winner": "INVICTUS",
+        "loser": "HAZKY",
+        "timestamp": "2025-07-31T07:25:22.210Z"
+      }
+    },
+    "winners": {
+      "q1": "SAK MAESTRO",
+      "q2": "HAZKY",
+      "q3": "PLARIDHEL",
+      "q4": "POISON 13",
+      "q5": "ZAITO",
+      "q6": "JDEE",
+      "q7": "ILLTIMATE",
+      "q8": "INVICTUS",
+      "sq1": "HAZKY",
+      "sq2": "PLARIDHEL",
+      "s1": "HAZKY",
+      "sq3": "JDEE",
+      "sq4": "INVICTUS",
+      "s2": "INVICTUS",
+      "gf1": "INVICTUS"
+    },
+    "champion": "INVICTUS",
+    "isLocked": true,
+    "completed": true
+  }
+}

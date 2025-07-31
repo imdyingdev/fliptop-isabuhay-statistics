@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "BATAS": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "ANDY G": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "DELLO": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "BADANG": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SAK MAESTRO": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "FONGGER": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "PISTOLERO": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SHEHYEE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ROMANO": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MZHAYT": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SAYADD": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "KREGGA": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "BLKD": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "THIKE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SHERNAN": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "RAPIDO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753943802893",
+    "title": "My Awesome Tournament",
+    "timestamp": "2025-07-31T06:36:42.893Z",
+    "players": {
+      "q1-p1": "DELLO",
+      "q1-p2": "BADANG",
+      "q2-p1": "SAK MAESTRO",
+      "q2-p2": "FONGGER",
+      "q3-p1": "SHEHYEE",
+      "q3-p2": "PISTOLERO",
+      "q4-p1": "MZHAYT",
+      "q4-p2": "ROMANO",
+      "q5-p1": "SAYADD",
+      "q5-p2": "KREGGA",
+      "q6-p1": "BATAS",
+      "q6-p2": "ANDY G",
+      "q7-p1": "THIKE",
+      "q7-p2": "BLKD",
+      "q8-p1": "SHERNAN",
+      "q8-p2": "RAPIDO"
+    },
+    "matches": {
+      "q6": {
+        "winner": "BATAS",
+        "loser": "ANDY G",
+        "timestamp": "2025-07-31T06:38:26.646Z"
+      },
+      "q1": {
+        "winner": "DELLO",
+        "loser": "BADANG",
+        "timestamp": "2025-07-31T06:38:36.286Z"
+      },
+      "q2": {
+        "winner": "SAK MAESTRO",
+        "loser": "FONGGER",
+        "timestamp": "2025-07-31T06:38:37.286Z"
+      },
+      "q3": {
+        "winner": "PISTOLERO",
+        "loser": "SHEHYEE",
+        "timestamp": "2025-07-31T06:38:43.430Z"
+      },
+      "q4": {
+        "winner": "ROMANO",
+        "loser": "MZHAYT",
+        "timestamp": "2025-07-31T06:38:44.056Z"
+      },
+      "q5": {
+        "winner": "SAYADD",
+        "loser": "KREGGA",
+        "timestamp": "2025-07-31T06:38:52.086Z"
+      },
+      "q7": {
+        "winner": "BLKD",
+        "loser": "THIKE",
+        "timestamp": "2025-07-31T06:38:56.670Z"
+      },
+      "q8": {
+        "winner": "SHERNAN",
+        "loser": "RAPIDO",
+        "timestamp": "2025-07-31T06:38:57.262Z"
+      },
+      "sq3": {
+        "winner": "BATAS",
+        "loser": "SAYADD",
+        "timestamp": "2025-07-31T06:39:15.375Z"
+      },
+      "sq4": {
+        "winner": "SHERNAN",
+        "loser": "BLKD",
+        "timestamp": "2025-07-31T06:39:33.606Z"
+      },
+      "s2": {
+        "winner": "BATAS",
+        "loser": "SHERNAN",
+        "timestamp": "2025-07-31T06:39:34.998Z"
+      },
+      "sq1": {
+        "winner": "DELLO",
+        "loser": "SAK MAESTRO",
+        "timestamp": "2025-07-31T06:40:12.743Z"
+      },
+      "sq2": {
+        "winner": "ROMANO",
+        "loser": "PISTOLERO",
+        "timestamp": "2025-07-31T06:40:15.487Z"
+      },
+      "s1": {
+        "winner": "ROMANO",
+        "loser": "DELLO",
+        "timestamp": "2025-07-31T06:40:19.727Z"
+      },
+      "gf1": {
+        "winner": "BATAS",
+        "loser": "ROMANO",
+        "timestamp": "2025-07-31T06:40:23.391Z"
+      }
+    },
+    "winners": {
+      "q6": "BATAS",
+      "q1": "DELLO",
+      "q2": "SAK MAESTRO",
+      "q3": "PISTOLERO",
+      "q4": "ROMANO",
+      "q5": "SAYADD",
+      "q7": "BLKD",
+      "q8": "SHERNAN",
+      "sq3": "BATAS",
+      "sq4": "SHERNAN",
+      "s2": "BATAS",
+      "sq1": "DELLO",
+      "sq2": "ROMANO",
+      "s1": "ROMANO",
+      "gf1": "BATAS"
+    },
+    "champion": "BATAS",
+    "isLocked": true,
+    "completed": true
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "BLKD": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MARSHALL BONIFACIO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "POISON 13": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "DOSAGE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "LANZETA": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SAYADD": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SIXTH THREAT": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "RUDIC": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "LHIPKRAM": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JBLAQUE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "G-CLOWN": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "GORIONG TALAS": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ASSER": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JONAS": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "APEKZ": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "HAZKY": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753945253035",
+    "title": "My Awesome Tournament",
+    "timestamp": "2025-07-31T07:00:53.035Z",
+    "players": {
+      "q1-p1": "BLKD",
+      "q1-p2": "MARSHALL BONIFACIO",
+      "q2-p1": "DOSAGE",
+      "q2-p2": "POISON 13",
+      "q3-p1": "SAYADD",
+      "q3-p2": "LANZETA",
+      "q4-p1": "SIXTH THREAT",
+      "q4-p2": "RUDIC",
+      "q5-p1": "JBLAQUE",
+      "q5-p2": "LHIPKRAM",
+      "q6-p1": "GORIONG TALAS",
+      "q6-p2": "G-CLOWN",
+      "q7-p1": "ASSER",
+      "q7-p2": "JONAS",
+      "q8-p1": "APEKZ",
+      "q8-p2": "HAZKY"
+    },
+    "matches": {
+      "q1": {
+        "winner": "BLKD",
+        "loser": "MARSHALL BONIFACIO",
+        "timestamp": "2025-07-31T07:07:00.594Z"
+      },
+      "q2": {
+        "winner": "POISON 13",
+        "loser": "DOSAGE",
+        "timestamp": "2025-07-31T07:07:01.178Z"
+      },
+      "q3": {
+        "winner": "LANZETA",
+        "loser": "SAYADD",
+        "timestamp": "2025-07-31T07:07:05.378Z"
+      },
+      "q4": {
+        "winner": "SIXTH THREAT",
+        "loser": "RUDIC",
+        "timestamp": "2025-07-31T07:07:06.106Z"
+      },
+      "q5": {
+        "winner": "LHIPKRAM",
+        "loser": "JBLAQUE",
+        "timestamp": "2025-07-31T07:07:11.026Z"
+      },
+      "q6": {
+        "winner": "G-CLOWN",
+        "loser": "GORIONG TALAS",
+        "timestamp": "2025-07-31T07:07:11.954Z"
+      },
+      "q7": {
+        "winner": "ASSER",
+        "loser": "JONAS",
+        "timestamp": "2025-07-31T07:07:20.498Z"
+      },
+      "q8": {
+        "winner": "APEKZ",
+        "loser": "HAZKY",
+        "timestamp": "2025-07-31T07:07:21.642Z"
+      },
+      "sq2": {
+        "winner": "SIXTH THREAT",
+        "loser": "LANZETA",
+        "timestamp": "2025-07-31T07:07:32.714Z"
+      },
+      "sq4": {
+        "winner": "APEKZ",
+        "loser": "ASSER",
+        "timestamp": "2025-07-31T07:07:42.938Z"
+      },
+      "sq1": {
+        "winner": "POISON 13",
+        "loser": "BLKD",
+        "timestamp": "2025-07-31T07:07:47.307Z"
+      },
+      "s1": {
+        "winner": "SIXTH THREAT",
+        "loser": "POISON 13",
+        "timestamp": "2025-07-31T07:07:48.826Z"
+      },
+      "sq3": {
+        "winner": "G-CLOWN",
+        "loser": "LHIPKRAM",
+        "timestamp": "2025-07-31T07:08:33.514Z"
+      },
+      "s2": {
+        "winner": "APEKZ",
+        "loser": "G-CLOWN",
+        "timestamp": "2025-07-31T07:08:35.683Z"
+      },
+      "gf1": {
+        "winner": "SIXTH THREAT",
+        "loser": "APEKZ",
+        "timestamp": "2025-07-31T07:08:46.171Z"
+      }
+    },
+    "winners": {
+      "q1": "BLKD",
+      "q2": "POISON 13",
+      "q3": "LANZETA",
+      "q4": "SIXTH THREAT",
+      "q5": "LHIPKRAM",
+      "q6": "G-CLOWN",
+      "q7": "ASSER",
+      "q8": "APEKZ",
+      "sq2": "SIXTH THREAT",
+      "sq4": "APEKZ",
+      "sq1": "POISON 13",
+      "s1": "SIXTH THREAT",
+      "sq3": "G-CLOWN",
+      "s2": "APEKZ",
+      "gf1": "SIXTH THREAT"
+    },
+    "champion": "SIXTH THREAT",
+    "isLocked": true,
+    "completed": true
+  }
+}
