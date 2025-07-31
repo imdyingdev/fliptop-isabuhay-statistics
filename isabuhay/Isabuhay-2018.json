@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "SHEHYEE": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "LHIPKRAM": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "POISON 13": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ABRA": {
+      "totalWins": 2,
+      "totalLosses": 2,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "PISTOLERO": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "AELEKZ": {
+      "totalWins": 1,
+      "totalLosses": 4,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "PLAZMA": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "BADANG REBELDE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "INVICTUS": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MARSHALL BONIFACIO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "BATAS": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JONAS": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "FUKUDA": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MAXFORD": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JKING": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SAYADD": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753944900981",
+    "title": "My Awesome Tournament",
+    "timestamp": "2025-07-31T06:55:00.981Z",
+    "players": {
+      "q1-p1": "BATAS",
+      "q1-p2": "JONAS",
+      "q2-p1": "MAXFORD",
+      "q2-p2": "FUKUDA",
+      "q3-p1": "JKING",
+      "q3-p2": "SAYADD",
+      "q4-p1": "SHEHYEE",
+      "q4-p2": "LHIPKRAM",
+      "q5-p1": "PLAZMA",
+      "q5-p2": "BADANG REBELDE",
+      "q6-p1": "AELEKZ",
+      "q6-p2": "PISTOLERO",
+      "q7-p1": "INVICTUS",
+      "q7-p2": "MARSHALL BONIFACIO",
+      "q8-p1": "ABRA",
+      "q8-p2": "POISON 13"
+    },
+    "matches": {
+      "q4": {
+        "winner": "SHEHYEE",
+        "loser": "LHIPKRAM",
+        "timestamp": "2025-07-31T06:58:01.623Z"
+      },
+      "q8": {
+        "winner": "ABRA",
+        "loser": "POISON 13",
+        "timestamp": "2025-07-31T06:58:11.447Z"
+      },
+      "q6": {
+        "winner": "PISTOLERO",
+        "loser": "AELEKZ",
+        "timestamp": "2025-07-31T06:59:05.143Z"
+      },
+      "q5": {
+        "winner": "PLAZMA",
+        "loser": "BADANG REBELDE",
+        "timestamp": "2025-07-31T06:58:30.494Z"
+      },
+      "q7": {
+        "winner": "INVICTUS",
+        "loser": "MARSHALL BONIFACIO",
+        "timestamp": "2025-07-31T06:59:16.687Z"
+      },
+      "q1": {
+        "winner": "BATAS",
+        "loser": "JONAS",
+        "timestamp": "2025-07-31T06:59:24.759Z"
+      },
+      "q2": {
+        "winner": "FUKUDA",
+        "loser": "MAXFORD",
+        "timestamp": "2025-07-31T06:59:25.479Z"
+      },
+      "q3": {
+        "winner": "JKING",
+        "loser": "SAYADD",
+        "timestamp": "2025-07-31T06:59:31.007Z"
+      },
+      "sq1": {
+        "winner": "FUKUDA",
+        "loser": "BATAS",
+        "timestamp": "2025-07-31T06:59:37.671Z"
+      },
+      "sq2": {
+        "winner": "SHEHYEE",
+        "loser": "JKING",
+        "timestamp": "2025-07-31T06:59:38.464Z"
+      },
+      "s1": {
+        "winner": "SHEHYEE",
+        "loser": "FUKUDA",
+        "timestamp": "2025-07-31T06:59:41.183Z"
+      },
+      "sq3": {
+        "winner": "PISTOLERO",
+        "loser": "PLAZMA",
+        "timestamp": "2025-07-31T06:59:49.655Z"
+      },
+      "sq4": {
+        "winner": "ABRA",
+        "loser": "INVICTUS",
+        "timestamp": "2025-07-31T06:59:52.399Z"
+      },
+      "s2": {
+        "winner": "PISTOLERO",
+        "loser": "ABRA",
+        "timestamp": "2025-07-31T06:59:54.215Z"
+      },
+      "gf1": {
+        "winner": "SHEHYEE",
+        "loser": "PISTOLERO",
+        "timestamp": "2025-07-31T06:59:57.024Z"
+      }
+    },
+    "winners": {
+      "q4": "SHEHYEE",
+      "q8": "ABRA",
+      "q6": "PISTOLERO",
+      "q5": "PLAZMA",
+      "q7": "INVICTUS",
+      "q1": "BATAS",
+      "q2": "FUKUDA",
+      "q3": "JKING",
+      "sq1": "FUKUDA",
+      "sq2": "SHEHYEE",
+      "s1": "SHEHYEE",
+      "sq3": "PISTOLERO",
+      "sq4": "ABRA",
+      "s2": "PISTOLERO",
+      "gf1": "SHEHYEE"
+    },
+    "champion": "SHEHYEE",
+    "isLocked": true,
+    "completed": true
+  }
+}

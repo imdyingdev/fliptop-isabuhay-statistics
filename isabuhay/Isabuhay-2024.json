@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "GL": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "JDEE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SUR HENYO": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JR ZERO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "EJ POWER": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "POISON 13": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ROMANO": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "3RDY": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "RUFFIAN": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "APOC": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SLOCKONE": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "CLASS G": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "VITRUM": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MARSHALL BONIFACIO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "G-CLOWN": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "RAPIDO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753946735255",
+    "title": "My Awesome Tournament",
+    "timestamp": "2025-07-31T07:25:35.255Z",
+    "players": {
+      "q1-p1": "GL",
+      "q1-p2": "JDEE",
+      "q2-p1": "SUR HENYO",
+      "q2-p2": "JR ZERO",
+      "q3-p1": "EJ POWER",
+      "q3-p2": "POISON 13",
+      "q4-p1": "ROMANO",
+      "q4-p2": "3RDY",
+      "q5-p1": "APOC",
+      "q5-p2": "RUFFIAN",
+      "q6-p1": "CLASS G",
+      "q6-p2": "SLOCKONE",
+      "q7-p1": "MARSHALL BONIFACIO",
+      "q7-p2": "VITRUM",
+      "q8-p1": "G-CLOWN",
+      "q8-p2": "RAPIDO"
+    },
+    "matches": {
+      "q1": {
+        "winner": "GL",
+        "loser": "JDEE",
+        "timestamp": "2025-07-31T07:27:02.803Z"
+      },
+      "q2": {
+        "winner": "SUR HENYO",
+        "loser": "JR ZERO",
+        "timestamp": "2025-07-31T07:27:03.514Z"
+      },
+      "q3": {
+        "winner": "EJ POWER",
+        "loser": "POISON 13",
+        "timestamp": "2025-07-31T07:27:05.379Z"
+      },
+      "q4": {
+        "winner": "ROMANO",
+        "loser": "3RDY",
+        "timestamp": "2025-07-31T07:27:06.234Z"
+      },
+      "q5": {
+        "winner": "RUFFIAN",
+        "loser": "APOC",
+        "timestamp": "2025-07-31T07:27:09.691Z"
+      },
+      "q6": {
+        "winner": "SLOCKONE",
+        "loser": "CLASS G",
+        "timestamp": "2025-07-31T07:27:11.267Z"
+      },
+      "q7": {
+        "winner": "VITRUM",
+        "loser": "MARSHALL BONIFACIO",
+        "timestamp": "2025-07-31T07:27:13.034Z"
+      },
+      "q8": {
+        "winner": "G-CLOWN",
+        "loser": "RAPIDO",
+        "timestamp": "2025-07-31T07:27:24.443Z"
+      },
+      "sq4": {
+        "winner": "VITRUM",
+        "loser": "G-CLOWN",
+        "timestamp": "2025-07-31T07:27:26.715Z"
+      },
+      "sq3": {
+        "winner": "SLOCKONE",
+        "loser": "RUFFIAN",
+        "timestamp": "2025-07-31T07:27:27.859Z"
+      },
+      "s2": {
+        "winner": "VITRUM",
+        "loser": "SLOCKONE",
+        "timestamp": "2025-07-31T07:27:30.115Z"
+      },
+      "sq1": {
+        "winner": "GL",
+        "loser": "SUR HENYO",
+        "timestamp": "2025-07-31T07:27:33.371Z"
+      },
+      "sq2": {
+        "winner": "EJ POWER",
+        "loser": "ROMANO",
+        "timestamp": "2025-07-31T07:27:36.755Z"
+      },
+      "s1": {
+        "winner": "GL",
+        "loser": "EJ POWER",
+        "timestamp": "2025-07-31T07:27:38.371Z"
+      },
+      "gf1": {
+        "winner": "GL",
+        "loser": "VITRUM",
+        "timestamp": "2025-07-31T07:27:39.603Z"
+      }
+    },
+    "winners": {
+      "q1": "GL",
+      "q2": "SUR HENYO",
+      "q3": "EJ POWER",
+      "q4": "ROMANO",
+      "q5": "RUFFIAN",
+      "q6": "SLOCKONE",
+      "q7": "VITRUM",
+      "q8": "G-CLOWN",
+      "sq4": "VITRUM",
+      "sq3": "SLOCKONE",
+      "s2": "VITRUM",
+      "sq1": "GL",
+      "sq2": "EJ POWER",
+      "s1": "GL",
+      "gf1": "GL"
+    },
+    "champion": "GL",
+    "isLocked": true,
+    "completed": true
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "GORIONG TALAS": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "PEN PLUMA": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JDEE": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ZAKI": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "CASTILLO": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "CNINE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "PISTOLERO": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "PLARIDHEL": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "LUXURIA": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ZAITO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "HARLEM": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "C-QUENCE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "POISON 13": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SLOCKONE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ELBIZ": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ZEND LUKE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753946134933",
+    "title": "My Awesome Tournament",
+    "timestamp": "2025-07-31T07:15:34.933Z",
+    "players": {
+      "q1-p1": "GORIONG TALAS",
+      "q1-p2": "PEN PLUMA",
+      "q2-p1": "JDEE",
+      "q2-p2": "ZAKI",
+      "q3-p1": "CASTILLO",
+      "q3-p2": "CNINE",
+      "q4-p1": "PLARIDHEL",
+      "q4-p2": "PISTOLERO",
+      "q5-p1": "ZAITO",
+      "q5-p2": "LUXURIA",
+      "q6-p1": "C-QUENCE",
+      "q6-p2": "HARLEM",
+      "q7-p1": "POISON 13",
+      "q7-p2": "SLOCKONE",
+      "q8-p1": "ZEND LUKE",
+      "q8-p2": "ELBIZ"
+    },
+    "matches": {
+      "q1": {
+        "winner": "GORIONG TALAS",
+        "loser": "PEN PLUMA",
+        "timestamp": "2025-07-31T07:20:47.456Z"
+      },
+      "q2": {
+        "winner": "JDEE",
+        "loser": "ZAKI",
+        "timestamp": "2025-07-31T07:20:48.264Z"
+      },
+      "q3": {
+        "winner": "CASTILLO",
+        "loser": "CNINE",
+        "timestamp": "2025-07-31T07:20:51.528Z"
+      },
+      "q4": {
+        "winner": "PISTOLERO",
+        "loser": "PLARIDHEL",
+        "timestamp": "2025-07-31T07:20:52.408Z"
+      },
+      "q5": {
+        "winner": "LUXURIA",
+        "loser": "ZAITO",
+        "timestamp": "2025-07-31T07:20:57.904Z"
+      },
+      "q6": {
+        "winner": "HARLEM",
+        "loser": "C-QUENCE",
+        "timestamp": "2025-07-31T07:20:58.576Z"
+      },
+      "q7": {
+        "winner": "POISON 13",
+        "loser": "SLOCKONE",
+        "timestamp": "2025-07-31T07:21:00.896Z"
+      },
+      "q8": {
+        "winner": "ELBIZ",
+        "loser": "ZEND LUKE",
+        "timestamp": "2025-07-31T07:21:01.840Z"
+      },
+      "sq1": {
+        "winner": "GORIONG TALAS",
+        "loser": "JDEE",
+        "timestamp": "2025-07-31T07:21:09.168Z"
+      },
+      "sq2": {
+        "winner": "PISTOLERO",
+        "loser": "CASTILLO",
+        "timestamp": "2025-07-31T07:21:10.312Z"
+      },
+      "sq3": {
+        "winner": "LUXURIA",
+        "loser": "HARLEM",
+        "timestamp": "2025-07-31T07:21:18.576Z"
+      },
+      "sq4": {
+        "winner": "POISON 13",
+        "loser": "ELBIZ",
+        "timestamp": "2025-07-31T07:21:21.248Z"
+      },
+      "s2": {
+        "winner": "LUXURIA",
+        "loser": "POISON 13",
+        "timestamp": "2025-07-31T07:21:27.840Z"
+      },
+      "s1": {
+        "winner": "PISTOLERO",
+        "loser": "GORIONG TALAS",
+        "timestamp": "2025-07-31T07:21:32.400Z"
+      },
+      "gf1": {
+        "winner": "PISTOLERO",
+        "loser": "LUXURIA",
+        "timestamp": "2025-07-31T07:21:33.696Z"
+      }
+    },
+    "winners": {
+      "q1": "GORIONG TALAS",
+      "q2": "JDEE",
+      "q3": "CASTILLO",
+      "q4": "PISTOLERO",
+      "q5": "LUXURIA",
+      "q6": "HARLEM",
+      "q7": "POISON 13",
+      "q8": "ELBIZ",
+      "sq1": "GORIONG TALAS",
+      "sq2": "PISTOLERO",
+      "sq3": "LUXURIA",
+      "sq4": "POISON 13",
+      "s2": "LUXURIA",
+      "s1": "PISTOLERO",
+      "gf1": "PISTOLERO"
+    },
+    "champion": "PISTOLERO",
+    "isLocked": true,
+    "completed": true
+  }
+}

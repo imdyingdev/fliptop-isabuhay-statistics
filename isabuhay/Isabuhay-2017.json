@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "BATAS": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "HEARTY": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SUR HENYO": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "BATANG REBELDE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "APEKZ": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "BADANG": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SAYADD": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "OMAR BALIW": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SPADE": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "DHUSKI": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "MHOT": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "PLAZMA": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ASSER": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "RUDIC": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "FUKUDA": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SIXTH THREAT": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753944349823",
+    "title": "My Awesome Tournament",
+    "timestamp": "2025-07-31T06:45:49.823Z",
+    "players": {
+      "q1-p1": "HEARTY",
+      "q1-p2": "BATAS",
+      "q2-p1": "BATANG REBELDE",
+      "q2-p2": "SUR HENYO",
+      "q3-p1": "RUDIC",
+      "q3-p2": "ASSER",
+      "q4-p1": "FUKUDA",
+      "q4-p2": "SIXTH THREAT",
+      "q5-p1": "APEKZ",
+      "q5-p2": "BADANG",
+      "q6-p1": "OMAR BALIW",
+      "q6-p2": "SAYADD",
+      "q8-p1": "PLAZMA",
+      "q8-p2": "MHOT",
+      "q7-p1": "SPADE",
+      "q7-p2": "DHUSKI"
+    },
+    "matches": {
+      "q1": {
+        "winner": "BATAS",
+        "loser": "HEARTY",
+        "timestamp": "2025-07-31T06:52:26.044Z"
+      },
+      "q2": {
+        "winner": "SUR HENYO",
+        "loser": "BATANG REBELDE",
+        "timestamp": "2025-07-31T06:52:34.381Z"
+      },
+      "q5": {
+        "winner": "APEKZ",
+        "loser": "BADANG",
+        "timestamp": "2025-07-31T06:52:41.100Z"
+      },
+      "q6": {
+        "winner": "SAYADD",
+        "loser": "OMAR BALIW",
+        "timestamp": "2025-07-31T06:52:41.820Z"
+      },
+      "q7": {
+        "winner": "SPADE",
+        "loser": "DHUSKI",
+        "timestamp": "2025-07-31T06:52:46.772Z"
+      },
+      "q8": {
+        "winner": "MHOT",
+        "loser": "PLAZMA",
+        "timestamp": "2025-07-31T06:52:48.524Z"
+      },
+      "sq3": {
+        "winner": "APEKZ",
+        "loser": "SAYADD",
+        "timestamp": "2025-07-31T06:53:05.565Z"
+      },
+      "sq4": {
+        "winner": "MHOT",
+        "loser": "SPADE",
+        "timestamp": "2025-07-31T06:53:06.692Z"
+      },
+      "q3": {
+        "winner": "ASSER",
+        "loser": "RUDIC",
+        "timestamp": "2025-07-31T06:53:39.948Z"
+      },
+      "q4": {
+        "winner": "FUKUDA",
+        "loser": "SIXTH THREAT",
+        "timestamp": "2025-07-31T06:54:10.141Z"
+      },
+      "sq2": {
+        "winner": "FUKUDA",
+        "loser": "ASSER",
+        "timestamp": "2025-07-31T06:54:31.117Z"
+      },
+      "sq1": {
+        "winner": "SUR HENYO",
+        "loser": "BATAS",
+        "timestamp": "2025-07-31T06:54:35.261Z"
+      },
+      "s1": {
+        "winner": "SUR HENYO",
+        "loser": "FUKUDA",
+        "timestamp": "2025-07-31T06:54:41.125Z"
+      },
+      "s2": {
+        "winner": "MHOT",
+        "loser": "APEKZ",
+        "timestamp": "2025-07-31T06:54:42.373Z"
+      },
+      "gf1": {
+        "winner": "MHOT",
+        "loser": "SUR HENYO",
+        "timestamp": "2025-07-31T06:54:45.061Z"
+      }
+    },
+    "winners": {
+      "q1": "BATAS",
+      "q2": "SUR HENYO",
+      "q5": "APEKZ",
+      "q6": "SAYADD",
+      "q7": "SPADE",
+      "q8": "MHOT",
+      "sq3": "APEKZ",
+      "sq4": "MHOT",
+      "q3": "ASSER",
+      "q4": "FUKUDA",
+      "sq2": "FUKUDA",
+      "sq1": "SUR HENYO",
+      "s1": "SUR HENYO",
+      "s2": "MHOT",
+      "gf1": "MHOT"
+    },
+    "champion": "MHOT",
+    "isLocked": true,
+    "completed": true
+  }
+}

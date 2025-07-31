@@ -1,0 +1,236 @@
+{
+  "playerStats": {
+    "SINIO": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "BATANG REBELDE": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ANDY G": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "FLIPZYDOT1": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JADE WUNN": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "RANIEBOY": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "AKLAS": {
+      "totalWins": 4,
+      "totalLosses": 0,
+      "streak": 4,
+      "tournaments": 1,
+      "championships": 1
+    },
+    "JLEM": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "RUDIC": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "JUAN TAMAD": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "FLICT G": {
+      "totalWins": 2,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "ASERO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SPADE": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "SPARO": {
+      "totalWins": 0,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "GIN": {
+      "totalWins": 1,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    },
+    "BLKD": {
+      "totalWins": 3,
+      "totalLosses": 1,
+      "streak": -1,
+      "tournaments": 1,
+      "championships": 0
+    }
+  },
+  "tournamentData": {
+    "id": "tournament_1753943065080",
+    "title": "Isabuhay 2013",
+    "timestamp": "2025-07-31T06:24:25.081Z",
+    "players": {
+      "q1-p1": "SINIO",
+      "q1-p2": "BATANG REBELDE",
+      "q2-p1": "ANDY G",
+      "q2-p2": "FLIPZYDOT1",
+      "q3-p1": "JADE WUNN",
+      "q3-p2": "RANIEBOY",
+      "q4-p1": "JLEM",
+      "q4-p2": "AKLAS",
+      "q5-p1": "RUDIC",
+      "q5-p2": "JUAN TAMAD",
+      "q6-p1": "ASERO",
+      "q6-p2": "FLICT G",
+      "q7-p1": "SPADE",
+      "q7-p2": "SPARO",
+      "q8-p1": "BLKD",
+      "q8-p2": "GIN"
+    },
+    "matches": {
+      "q1": {
+        "winner": "SINIO",
+        "loser": "BATANG REBELDE",
+        "timestamp": "2025-07-31T06:25:08.776Z"
+      },
+      "q2": {
+        "winner": "ANDY G",
+        "loser": "FLIPZYDOT1",
+        "timestamp": "2025-07-31T06:25:19.248Z"
+      },
+      "q3": {
+        "winner": "JADE WUNN",
+        "loser": "RANIEBOY",
+        "timestamp": "2025-07-31T06:25:20.984Z"
+      },
+      "q4": {
+        "winner": "AKLAS",
+        "loser": "JLEM",
+        "timestamp": "2025-07-31T06:25:21.800Z"
+      },
+      "q5": {
+        "winner": "RUDIC",
+        "loser": "JUAN TAMAD",
+        "timestamp": "2025-07-31T06:25:27.969Z"
+      },
+      "q6": {
+        "winner": "FLICT G",
+        "loser": "ASERO",
+        "timestamp": "2025-07-31T06:25:28.912Z"
+      },
+      "q7": {
+        "winner": "SPADE",
+        "loser": "SPARO",
+        "timestamp": "2025-07-31T06:25:31.352Z"
+      },
+      "q8": {
+        "winner": "BLKD",
+        "loser": "GIN",
+        "timestamp": "2025-07-31T06:26:05.080Z"
+      },
+      "sq1": {
+        "winner": "SINIO",
+        "loser": "ANDY G",
+        "timestamp": "2025-07-31T06:25:40.176Z"
+      },
+      "sq2": {
+        "winner": "AKLAS",
+        "loser": "JADE WUNN",
+        "timestamp": "2025-07-31T06:25:40.840Z"
+      },
+      "sq4": {
+        "winner": "BLKD",
+        "loser": "SPADE",
+        "timestamp": "2025-07-31T06:26:08.001Z"
+      },
+      "sq3": {
+        "winner": "FLICT G",
+        "loser": "RUDIC",
+        "timestamp": "2025-07-31T06:26:19.505Z"
+      },
+      "s1": {
+        "winner": "AKLAS",
+        "loser": "SINIO",
+        "timestamp": "2025-07-31T06:26:29.025Z"
+      },
+      "s2": {
+        "winner": "BLKD",
+        "loser": "FLICT G",
+        "timestamp": "2025-07-31T06:26:31.489Z"
+      },
+      "gf1": {
+        "winner": "AKLAS",
+        "loser": "BLKD",
+        "timestamp": "2025-07-31T06:26:38.505Z"
+      }
+    },
+    "winners": {
+      "q1": "SINIO",
+      "q2": "ANDY G",
+      "q3": "JADE WUNN",
+      "q4": "AKLAS",
+      "q5": "RUDIC",
+      "q6": "FLICT G",
+      "q7": "SPADE",
+      "q8": "BLKD",
+      "sq1": "SINIO",
+      "sq2": "AKLAS",
+      "sq4": "BLKD",
+      "sq3": "FLICT G",
+      "s1": "AKLAS",
+      "s2": "BLKD",
+      "gf1": "AKLAS"
+    },
+    "champion": "AKLAS",
+    "isLocked": true,
+    "completed": true
+  }
+}
